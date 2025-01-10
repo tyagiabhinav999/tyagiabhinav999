@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Tyagi</h1>
 <h3 align="center">Python Django Developer | Crafting Scalable Web Solutions 🚀</h3>
 
-- 🌱 I’m currently learning **AWS, React and Data Engineering.**
+- 🌱 I’m currently learning **React, AWS and Data Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyagiabhinav999](https://github.com/tyagiabhinav999)
 
